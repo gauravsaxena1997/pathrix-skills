@@ -23,6 +23,8 @@ Passive pattern map: when substantive work happens, suggest one content angle wi
 | New skill or MCP built | Technical walkthrough | YouTube, Dev.to, GitHub README |
 | Architecture or system design | Opinion / thread | LinkedIn, X |
 | Working with Remotion or creative dev | Build log / vlog | YouTube Short, Reddit, Instagram |
+| Shipped freelance project or client win | Build log carousel / case study lite | Contra, LinkedIn |
+| New skill, tool, or AI integration shipped | Tutorial / teardown | Contra, Reddit (r/webdev), X |
 
 ## From a long-form blog post
 
@@ -55,6 +57,7 @@ Passive pattern map: when substantive work happens, suggest one content angle wi
 5. LinkedIn post framing the learning, not the product
 6. Dev.to writeup with code
 7. Tweet of the one-liner lesson learned
+8. Contra build log carousel (3-8 slides: problem - process - result with screenshots) + skill tags
 
 ## Timing strategy (don't dump all at once)
 

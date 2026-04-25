@@ -27,6 +27,7 @@ knowledge/
     x.md                          : thread structure, reply game, contrarian takes
     youtube.md                    : Shorts vs long-form, title/thumb theory, retention hooks
     threads.md                    : IG audience bleed, what works vs X
+    contra.md                     : freelance-platform-as-social-graph, build-log carousels, Creator badge, skill-tag discovery
 ```
 
 ## Runtime reads from Pathrix (via MCP)
@@ -96,7 +97,7 @@ This skill is a pointer-note in Pathrix Content Creation space titled **"Univers
 - Store tokens, OAuth, or credentials.
 - Hardcode Gaurav's pillars, voice, or niche (all of that is in Pathrix).
 - Contain personal content drafts or past posts (those live as Pathrix Content rows).
-- Cover LinkedIn (out of scope v1).
+- Cover LinkedIn (planned, not yet in scope; will get its own platform file when posting becomes active - same pattern as contra.md).
 - Reference Eva Eloura or any AI persona (personal, handled separately).
 
 ## Cross-platform dynamic behavior (the main reflex)
@@ -124,3 +125,4 @@ Output the variants terse, then ask which to push to Pathrix as Content rows. Ne
 | "Which subreddit culture tolerates self-promo?" | `knowledge/platforms/reddit.md` |
 | "X thread pacing?" | `knowledge/platforms/x.md` |
 | "Shorts vs long-form for a tutorial?" | `knowledge/platforms/youtube.md` |
+| "Will this post convert hiring clients on Contra?" | `knowledge/platforms/contra.md` |

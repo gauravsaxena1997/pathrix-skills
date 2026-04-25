@@ -56,6 +56,7 @@ Each platform rewards different atoms. Match, don't force.
 | **YouTube Short** | Visual, punchline, counter-intuitive + receipt | Pure text, slow openers |
 | **YouTube long-form** | Process, tutorial, teardown, receipts | One-liners, meme-moments |
 | **Threads** | Observation, meme-moment, hook line, visual | Hard takes, long process |
+| **Contra post** | Visual, build-log, process, lesson, receipts | Pure text takes, meme-moments without a lesson |
 
 ### Step 4: Emit native-format variants
 
